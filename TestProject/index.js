@@ -1,1 +1,1 @@
-﻿var a = document.getElementById();
+﻿var a = document.getElementById("hello");
